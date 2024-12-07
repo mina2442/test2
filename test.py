@@ -3,7 +3,8 @@ def sum ():
     for y in x :
        counter+=y
     print(counter)
-
+def  subtract (x, y):
+    return x - y
 
 x = {1,2,3,4,5,6}
 for i in x:
@@ -11,3 +12,6 @@ for i in x:
 
 
 sum()
+
+q = subtract(20 , 5)
+print(q)
