@@ -14,3 +14,7 @@ num2 = input("enter second number\n")
 print( subtract(num1 , num2))
 
 
+
+d
+e
+f
