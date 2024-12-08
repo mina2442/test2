@@ -1,1 +1,2 @@
-
+def mina ():
+    print("mina")
