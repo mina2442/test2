@@ -1,9 +1,9 @@
-class car :
-    speed = 0
-    model = 0
-    color = 0
+class Car:
+    speed = 5
+    model = 10
+    color = 10
 
 
 
-    def speed (self):
-        print (self.speed)
+    def speed(self):
+        print(self.speed)
