@@ -1,14 +1,14 @@
 
-x = input ( "enter your number\n")
+x = int(input ( "enter your number\n"))
 
 if ( x < 0):
     x*=-1
+    print(x)
 
-
-else if (x == 0):
+elif (x == 0):
     print ( "invalid number\n")
 
 
-else:
+else :
     print (x)
 
