@@ -1,4 +1,3 @@
-def mina ():
-    print("mina")
-def mo ():
-    print("mo")
+
+
+print ("first commit again")
